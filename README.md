@@ -724,4 +724,4 @@ AI 도입에 소요된 초기 투자 비용을 다룰 것인가?
   단순 요약이 아닌 맥락이 유지되고 핵심이 포함 된 요약을 만들어 재 학습하고 대화 함.
 
 ## 5. 원본 대화 파일
-
+https://github.com/kwi041172-coder/report1/blob/main/%EB%8C%80%ED%99%94%EB%A1%9C%EA%B7%B8.%EC%9B%90%EB%B3%B8.txt.hwpx
